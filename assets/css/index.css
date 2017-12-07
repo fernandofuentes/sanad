@@ -13,6 +13,10 @@ h4 {
   background-position: bottom;
 }
 
+.bg-dark {
+  background-color: #00529d!important;
+}
+
 .navbar-brand img {
   width: 100px;
 }

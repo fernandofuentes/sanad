@@ -14,6 +14,10 @@ h2, h3, h4, h5 {
 
 /* NAV */
 
+.bg-dark {
+  background-color: #00529d!important;
+}
+
 .navbar-brand img {
   width: 100px;
 }
