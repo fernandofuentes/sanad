@@ -1,0 +1,62 @@
+body {
+  background-image: url("../images/brushed.png");
+  background-repeat: repeat;
+}
+
+h1 {
+  color: #00529d;
+}
+
+h2, h3, h4, h5 {
+  color: #009448;
+  text-align: left;
+}
+
+/* NAV */
+
+.bg-dark {
+  background-color: #00529d!important;
+}
+
+.navbar-brand img {
+  width: 100px;
+}
+
+.row {
+  margin-bottom: 50px;
+}
+
+/* HOMEPAGE BANNER */
+
+.jumbotron-fluid {
+  background-image: url("../images/sanad-homepage-banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  background-position: bottom;
+  margin-bottom: 100px;
+}
+
+.display-3, .lead {
+  color: #ffffff;
+}
+
+/* HOT BUTTONS */
+
+.hot-buttons {
+  text-align: center;
+}
+
+.hot-buttons img {
+  border: 1px solid #333333;
+}
+
+/* COPYRIGHT */
+
+.copyright {
+  color: #ffffff;
+  height: 50px;
+  font-size: 12px;
+  line-height: 50px;
+  text-align: center;
+}
