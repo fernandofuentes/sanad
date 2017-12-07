@@ -6,6 +6,10 @@ body {
   background-position: center bottom;
 }
 
+.navbar-brand img {
+  width: 100px;
+}
+
 /* COPYRIGHT */
 
 .copyright {

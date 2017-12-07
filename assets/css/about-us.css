@@ -7,6 +7,12 @@ h2, h3, h4, h5 {
   text-align: center;
 }
 
+/* NAV */
+
+.navbar-brand img {
+  width: 100px;
+}
+
 .row {
   margin-bottom: 50px;
 }
