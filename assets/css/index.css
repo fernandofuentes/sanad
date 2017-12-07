@@ -1,13 +1,31 @@
-body {
+h4 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: #444444;
+}
+
+.container-fluid {
+  height: 100vh;
   background-image: url("../images/sanad-bkg.jpg");
   background-repeat: no-repeat;
   background-color: #a1aabe;
-  background-size: cover;
-  background-position: center bottom;
+  background-size: 100%;
+  background-position: bottom;
 }
 
 .navbar-brand img {
   width: 100px;
+}
+
+/* HERO */
+
+.hero {
+  margin-top: 200px;
+  text-align: center;
+}
+
+.logo img {
+  width: 320px;
 }
 
 /* COPYRIGHT */
