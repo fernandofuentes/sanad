@@ -1,7 +1,9 @@
 body {
   background-image: url("../images/sanad-bkg.jpg");
   background-repeat: no-repeat;
-  background-position: bottom;
+  background-color: #a1aabe;
+  background-size: cover;
+  background-position: center bottom;
 }
 
 /* COPYRIGHT */
