@@ -3,6 +3,10 @@ body {
   background-repeat: repeat;
 }
 
+h2 {
+  text-align: center;
+}
+
 /* HOMEPAGE BANNER */
 
 .jumbotron-fluid {
