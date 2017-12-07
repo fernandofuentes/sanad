@@ -1,0 +1,30 @@
+body {
+  background-image: url("../images/brushed.png");
+  background-repeat: repeat;
+}
+
+/* HOMEPAGE BANNER */
+
+.jumbotron-fluid {
+  background-image: url("../images/sanad-homepage-banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  background-position: bottom;
+}
+
+.display-3, .lead {
+  color: #ffffff;
+}
+
+/* HOT BUTTONS */
+
+.hot-buttons img {
+  margin-bottom: 15px;
+}
+
+/* COPYRIGHT */
+
+.copyright {
+  text-align: center;
+}
