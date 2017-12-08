@@ -7,8 +7,13 @@ h1 {
   color: #00529d;
 }
 
-h2, h3, h4, h5 {
+h2 {
   color: #009448;
+  text-align: center;
+}
+
+h3, h4, h5 {
+  color: #00529d;
   text-align: center;
 }
 
